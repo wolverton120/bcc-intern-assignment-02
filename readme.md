@@ -1,0 +1,15 @@
+## Introduction 
+This is a Landwind page made by Sadman Adib (Team-15) of the BCC Intern Program.
+
+## Purpose
+It was made as a demonstration for the usage of tallwind CSS, and also to complete the assignment.
+
+## How To Run
+You can either clone the repository and run **index.html** or try out the site directly from the **deployment.**
+
+## Disclaimer
+Not an actual project. Made as a demonstration to fulfill the assignment requirements provided by the BCC Intern Program.
+
+## License 
+This project is licensed under the [MIT License.](https://github.com/wolverton120/day02-task/blob/main/LICENSE)
+
