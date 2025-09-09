@@ -5,7 +5,7 @@ This is a LandWind page made by Sadman Adib (Team-15) of the BCC Intern Program.
 It was made as a demonstration for the usage of tallwind CSS, and also to complete the assignment.
 
 ## How To Run
-You can either clone the repository and run **index.html** or try out the site directly from the **deployment.**
+You can either clone the repository and run **index.html** or try out the site directly from the [**deployment.**](https://wolverton120.github.io/bcc-intern-assignment-02/)
 
 ## Disclaimer
 Not an actual project. Made as a demonstration to fulfill the assignment requirements provided by the BCC Intern Program.
